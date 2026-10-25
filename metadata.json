@@ -1,0 +1,6 @@
+{
+  "uuid": "codex-usage@local",
+  "name": "Codex Usage",
+  "description": "Show remaining Codex plan usage in the GNOME top bar",
+  "shell-version": ["50"]
+}
